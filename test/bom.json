@@ -1,0 +1,591 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.4",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2024-01-23T14:51:39Z",
+    "tools": [
+      {
+        "vendor": "MTS.RED",
+        "name": "RecDep",
+        "version": "1.0.0"
+      }
+    ],
+    "component": {
+      "type": "application",
+      "bom-ref": "pkg:npm/PROJECT@1",
+      "name": "PROJECT"
+    }
+  },
+  "components": [
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/debug@0.7.4",
+      "name": "debug",
+      "version": "0.7.4",
+      "scope": "required",
+      "purl": "pkg:npm/debug@0.7.4",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/zlib-browserify@0.0.1",
+      "name": "zlib-browserify",
+      "version": "0.0.1",
+      "scope": "required",
+      "purl": "pkg:npm/zlib-browserify@0.0.1",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/camelcase@1.2.1",
+      "name": "camelcase",
+      "version": "1.2.1",
+      "scope": "required",
+      "purl": "pkg:npm/camelcase@1.2.1",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/amdefine@1.0.1",
+      "name": "amdefine",
+      "version": "1.0.1",
+      "scope": "required",
+      "purl": "pkg:npm/amdefine@1.0.1",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/grunt-contrib-concat@0.3.0",
+      "name": "grunt-contrib-concat",
+      "version": "0.3.0",
+      "scope": "required",
+      "purl": "pkg:npm/grunt-contrib-concat@0.3.0",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/grunt-contrib-watch@0.5.3",
+      "name": "grunt-contrib-watch",
+      "version": "0.5.3",
+      "scope": "required",
+      "purl": "pkg:npm/grunt-contrib-watch@0.5.3",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/grunt-contrib-uglify@0.3.3",
+      "name": "grunt-contrib-uglify",
+      "version": "0.3.3",
+      "scope": "required",
+      "purl": "pkg:npm/grunt-contrib-uglify@0.3.3",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/grunt-lib-contrib@0.6.1",
+      "name": "grunt-lib-contrib",
+      "version": "0.6.1",
+      "scope": "required",
+      "purl": "pkg:npm/grunt-lib-contrib@0.6.1",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/yargs@3.5.4",
+      "name": "yargs",
+      "version": "3.5.4",
+      "scope": "required",
+      "purl": "pkg:npm/yargs@3.5.4",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/gaze@0.4.3",
+      "name": "gaze",
+      "version": "0.4.3",
+      "scope": "required",
+      "purl": "pkg:npm/gaze@0.4.3",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/qs@0.5.6",
+      "name": "qs",
+      "version": "0.5.6",
+      "scope": "required",
+      "purl": "pkg:npm/qs@0.5.6",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/decamelize@1.2.0",
+      "name": "decamelize",
+      "version": "1.2.0",
+      "scope": "required",
+      "purl": "pkg:npm/decamelize@1.2.0",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/strip-ansi@0.1.1",
+      "name": "strip-ansi",
+      "version": "0.1.1",
+      "scope": "required",
+      "purl": "pkg:npm/strip-ansi@0.1.1",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/PROJECT@1",
+      "name": "PROJECT",
+      "version": "1",
+      "scope": "required",
+      "purl": "pkg:npm/PROJECT@1",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": "ROOT PROJECT"
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/async@0.2.10",
+      "name": "async",
+      "version": "0.2.10",
+      "scope": "required",
+      "purl": "pkg:npm/async@0.2.10",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/uglify-js@2.4.24",
+      "name": "uglify-js",
+      "version": "2.4.24",
+      "scope": "required",
+      "purl": "pkg:npm/uglify-js@2.4.24",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/window-size@0.1.0",
+      "name": "window-size",
+      "version": "0.1.0",
+      "scope": "required",
+      "purl": "pkg:npm/window-size@0.1.0",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/abbrev@1.1.1",
+      "name": "abbrev",
+      "version": "1.1.1",
+      "scope": "required",
+      "purl": "pkg:npm/abbrev@1.1.1",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/globule@0.1.0",
+      "name": "globule",
+      "version": "0.1.0",
+      "scope": "required",
+      "purl": "pkg:npm/globule@0.1.0",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/wordwrap@0.0.2",
+      "name": "wordwrap",
+      "version": "0.0.2",
+      "scope": "required",
+      "purl": "pkg:npm/wordwrap@0.0.2",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/nopt@2.0.0",
+      "name": "nopt",
+      "version": "2.0.0",
+      "scope": "required",
+      "purl": "pkg:npm/nopt@2.0.0",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/ansi-styles@1.0.0",
+      "name": "ansi-styles",
+      "version": "1.0.0",
+      "scope": "required",
+      "purl": "pkg:npm/ansi-styles@1.0.0",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/has-color@0.1.7",
+      "name": "has-color",
+      "version": "0.1.7",
+      "scope": "required",
+      "purl": "pkg:npm/has-color@0.1.7",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/tiny-lr@0.0.4",
+      "name": "tiny-lr",
+      "version": "0.0.4",
+      "scope": "required",
+      "purl": "pkg:npm/tiny-lr@0.0.4",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/minimatch@0.2.14",
+      "name": "minimatch",
+      "version": "0.2.14",
+      "scope": "required",
+      "purl": "pkg:npm/minimatch@0.2.14",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/glob@3.1.21",
+      "name": "glob",
+      "version": "3.1.21",
+      "scope": "required",
+      "purl": "pkg:npm/glob@3.1.21",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/grunt@0.4.5",
+      "name": "grunt",
+      "version": "0.4.5",
+      "scope": "required",
+      "purl": "pkg:npm/grunt@0.4.5",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/lodash@1.0.2",
+      "name": "lodash",
+      "version": "1.0.2",
+      "scope": "required",
+      "purl": "pkg:npm/lodash@1.0.2",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/noptify@0.0.3",
+      "name": "noptify",
+      "version": "0.0.3",
+      "scope": "required",
+      "purl": "pkg:npm/noptify@0.0.3",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/chalk@0.4.0",
+      "name": "chalk",
+      "version": "0.4.0",
+      "scope": "required",
+      "purl": "pkg:npm/chalk@0.4.0",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/source-map@0.1.34",
+      "name": "source-map",
+      "version": "0.1.34",
+      "scope": "required",
+      "purl": "pkg:npm/source-map@0.1.34",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/faye-websocket@0.4.4",
+      "name": "faye-websocket",
+      "version": "0.4.4",
+      "scope": "required",
+      "purl": "pkg:npm/faye-websocket@0.4.4",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    },
+    {
+      "type": "library",
+      "bom-ref": "pkg:npm/uglify-to-browserify@1.0.2",
+      "name": "uglify-to-browserify",
+      "version": "1.0.2",
+      "scope": "required",
+      "purl": "pkg:npm/uglify-to-browserify@1.0.2",
+      "hashes": null,
+      "licenses": [
+        {
+          "id": ""
+        }
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "ref": "pkg:npm/nopt@2.0.0",
+      "dependsOn": [
+        "pkg:npm/abbrev@1.1.1"
+      ]
+    },
+    {
+      "ref": "pkg:npm/chalk@0.4.0",
+      "dependsOn": [
+        "pkg:npm/ansi-styles@1.0.0",
+        "pkg:npm/has-color@0.1.7",
+        "pkg:npm/strip-ansi@0.1.1"
+      ]
+    },
+    {
+      "ref": "pkg:npm/uglify-js@2.4.24",
+      "dependsOn": [
+        "pkg:npm/source-map@0.1.34",
+        "pkg:npm/uglify-to-browserify@1.0.2",
+        "pkg:npm/yargs@3.5.4",
+        "pkg:npm/async@0.2.10"
+      ]
+    },
+    {
+      "ref": "pkg:npm/noptify@0.0.3",
+      "dependsOn": [
+        "pkg:npm/nopt@2.0.0"
+      ]
+    },
+    {
+      "ref": "pkg:npm/source-map@0.1.34",
+      "dependsOn": [
+        "pkg:npm/amdefine@1.0.1"
+      ]
+    },
+    {
+      "ref": "pkg:npm/PROJECT@1",
+      "dependsOn": [
+        "pkg:npm/grunt-contrib-concat@0.3.0",
+        "pkg:npm/grunt-contrib-uglify@0.3.3",
+        "pkg:npm/grunt-contrib-watch@0.5.3",
+        "pkg:npm/grunt@0.4.5"
+      ]
+    },
+    {
+      "ref": "pkg:npm/grunt-contrib-concat@0.3.0",
+      "dependsOn": [
+        "pkg:npm/grunt@0.4.5"
+      ]
+    },
+    {
+      "ref": "pkg:npm/grunt-contrib-watch@0.5.3",
+      "dependsOn": [
+        "pkg:npm/gaze@0.4.3",
+        "pkg:npm/grunt@0.4.5",
+        "pkg:npm/tiny-lr@0.0.4"
+      ]
+    },
+    {
+      "ref": "pkg:npm/grunt-lib-contrib@0.6.1",
+      "dependsOn": [
+        "pkg:npm/zlib-browserify@0.0.1"
+      ]
+    },
+    {
+      "ref": "pkg:npm/yargs@3.5.4",
+      "dependsOn": [
+        "pkg:npm/wordwrap@0.0.2",
+        "pkg:npm/camelcase@1.2.1",
+        "pkg:npm/decamelize@1.2.0",
+        "pkg:npm/window-size@0.1.0"
+      ]
+    },
+    {
+      "ref": "pkg:npm/gaze@0.4.3",
+      "dependsOn": [
+        "pkg:npm/globule@0.1.0"
+      ]
+    },
+    {
+      "ref": "pkg:npm/grunt-contrib-uglify@0.3.3",
+      "dependsOn": [
+        "pkg:npm/uglify-js@2.4.24",
+        "pkg:npm/chalk@0.4.0",
+        "pkg:npm/grunt-lib-contrib@0.6.1",
+        "pkg:npm/grunt@0.4.5"
+      ]
+    },
+    {
+      "ref": "pkg:npm/globule@0.1.0",
+      "dependsOn": [
+        "pkg:npm/minimatch@0.2.14",
+        "pkg:npm/glob@3.1.21",
+        "pkg:npm/lodash@1.0.2"
+      ]
+    },
+    {
+      "ref": "pkg:npm/tiny-lr@0.0.4",
+      "dependsOn": [
+        "pkg:npm/faye-websocket@0.4.4",
+        "pkg:npm/noptify@0.0.3",
+        "pkg:npm/qs@0.5.6",
+        "pkg:npm/debug@0.7.4"
+      ]
+    }
+  ]
+}

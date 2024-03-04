@@ -1,0 +1,11 @@
+source: "/code"
+logdir: "/var/log/recdep"
+report: "/result/result.json"
+
+httpclient:
+  proxy: ""
+  insecure: false
+
+vulndb:
+  token: "731984265"
+  baseurl: "http://manager.devasc.mts-corp.ru:4955"
